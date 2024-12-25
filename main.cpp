@@ -12,7 +12,7 @@
 #include "../include/shannonFano.h"
 #include "../include/task.h"
 
-// Основная функция
+
 int main() {
     std::cout << "TASK 1:" << std::endl;
 
