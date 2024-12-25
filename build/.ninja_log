@@ -1,0 +1,6 @@
+# ninja log v5
+20	698	7567887542444353	CMakeFiles/MyExecutable.dir/shannonFano.cpp.obj	d29744255cfb20d9
+23	807	7567887543574612	CMakeFiles/MyExecutable.dir/huffmanCode.cpp.obj	20cd0b2ea4f448c0
+4	996	7567887545475041	CMakeFiles/MyExecutable.dir/main.cpp.obj	4a94174a1685eaf8
+1032	1284	7567887548322459	MyExecutable.exe	34ca5cae3a80d36a
+26	1032	7567887545835124	CMakeFiles/MyExecutable.dir/task.cpp.obj	132c5b47f9c5c4e

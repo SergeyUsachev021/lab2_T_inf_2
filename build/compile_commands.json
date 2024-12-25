@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/SerGO/Desktop/lab2_T_inf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/SerGO/Desktop/lab2_T_inf/include -g -o CMakeFiles\\MyExecutable.dir\\main.cpp.obj -c C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\main.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\main.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/SerGO/Desktop/lab2_T_inf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/SerGO/Desktop/lab2_T_inf/include -g -o CMakeFiles\\MyExecutable.dir\\shannonFano.cpp.obj -c C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\shannonFano.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\shannonFano.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\shannonFano.cpp.obj"
+},
+{
+  "directory": "C:/Users/SerGO/Desktop/lab2_T_inf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/SerGO/Desktop/lab2_T_inf/include -g -o CMakeFiles\\MyExecutable.dir\\huffmanCode.cpp.obj -c C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\huffmanCode.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\huffmanCode.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\huffmanCode.cpp.obj"
+},
+{
+  "directory": "C:/Users/SerGO/Desktop/lab2_T_inf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/SerGO/Desktop/lab2_T_inf/include -g -o CMakeFiles\\MyExecutable.dir\\task.cpp.obj -c C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\task.cpp",
+  "file": "C:\\Users\\SerGO\\Desktop\\lab2_T_inf\\task.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\task.cpp.obj"
+}
+]
